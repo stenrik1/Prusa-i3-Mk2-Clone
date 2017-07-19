@@ -1,7 +1,9 @@
 # Prusa i3 Mk2 3D Printer Clone Part List
 
 Link to [Prusa i3 Mk2 Build Manual](http://manual.prusa3d.com/c/Original_Prusa_i3_MK2_kit_assembly)
+
 Link to [3D Printing Service](https://www.3dhubs.com)
+
 Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 
 ## Printed Parts
@@ -28,6 +30,7 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * 1x Fan Nozzle
 * 1x Heatbed Cable Cover
 * 1x RAMPS Enclosure
+
 **Total: $89.90**
 
 ## Electrical Parts
@@ -46,6 +49,7 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * [1x All Metal V6 Hotend/Bowden Extruder](https://reprapchampion.com/products/all-metal-v6-hotend-1-75mm-bowden-extruder-prusa-i3-reprap-3d-printer-deluxe-kit?variant=14726151622)
 * [1x Cartridge Heaters](https://reprapchampion.com/collections/hotend-parts/products/2-x-cartridge-heater-12v-or-24v-40w-for-prusa-3d-reprap-printer-extruder-hotend)
 * [1x Thermistor for Extruder Hotend](https://reprapchampion.com/collections/hotend-parts/products/2017-version-hex-screw-in-m3-epcos-thermistor-for-3d-printer-extruder-hotend)
+
 **Total: $210.29**
 
 ## Metal Parts
@@ -75,10 +79,12 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * 24x M3x18 screw
 * 6x M3x12 screw
 * 16x M3x10 screw
+
 **Total: ~$100**
 
 ## Other Parts
 * [1x Prusa i3 Frame/Y-Carriage Plate](http://www.ebay.com/itm/3D-Printer-Reprap-Mendel-Prusa-I3-Frame-Laser-Cut-6mm-PlyWood-Screws/282130556323?_trksid=p2045573.c100505.m3226&_trkparms=aid%3D555014%26algo%3DPL.DEFAULT%26ao%3D1%26asc%3D41375%26meid%3Dac407cfaabbb496a95a50328081cac4c%26pid%3D100505%26rk%3D1%26rkt%3D1%26)
 * [1x 6mm Cork Thermal Insulator](http://www.ebay.com/itm/6mm-Cork-Thermal-Insulator-for-3d-printer-Reprap-Heat-bed-MK2a-or-MK3-heatbed-/291694823499?_trksid=p2385738.m2548.l4275)
 * [1x 5m of GT2 Timing Belt](https://reprapchampion.com/products/5-meter-6mm-width-gt2-timing-belt-for-reprap-delta-3d-printer-kossel-rostock?variant=14726292166)
+
 **Total: $44.29**

@@ -25,11 +25,12 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * 1x LCD Support B
 * 1x Heatbed Frame Bushings
 * 1x PSU Cover
+* 1x PSU Y-Part
 * 1x Spool Holder
 * 1x Fan Nozzle
 * 1x RAMPS Enclosure
 
-**Total: $80.48**
+**Total: $82.49**
 
 ## Electrical Parts
 * [1x RAMPS 1.4 Controller Board](https://reprapchampion.com/products/ramps-1-4-controller-board-for-reprap-3d-printer-prusa-i3-mendel-rostock-kossel?variant=7797665475)
@@ -85,4 +86,4 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * [1x 6mm Cork Thermal Insulator](http://www.ebay.com/itm/6mm-Cork-Thermal-Insulator-for-3d-printer-Reprap-Heat-bed-MK2a-or-MK3-heatbed-/291694823499?_trksid=p2385738.m2548.l4275)
 * [1x 5m of GT2 Timing Belt](https://reprapchampion.com/products/5-meter-6mm-width-gt2-timing-belt-for-reprap-delta-3d-printer-kossel-rostock?variant=14726292166)
 
-**Total: $44.29**
+**Total: $86.70**

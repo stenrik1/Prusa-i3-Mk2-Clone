@@ -30,8 +30,6 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * 1x Fan Nozzle
 * 1x RAMPS Enclosure
 
-**Total: $82.49**
-
 ## Electrical Parts
 * [1x RAMPS 1.4 Controller Board](https://reprapchampion.com/products/ramps-1-4-controller-board-for-reprap-3d-printer-prusa-i3-mendel-rostock-kossel?variant=7797665475)
 * [1x Arduino MEGA 2560](https://reprapchampion.com/products/hot-mega2560-r3-atmega2560-16au-atmega-16u2-for-arduino-fast-us-shipping?variant=8090159939)
@@ -48,8 +46,6 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * [1x All Metal V6 Hotend/Bowden Extruder](https://reprapchampion.com/collections/hotend-parts/products/metal-only-parts-for-j-head-v6-hotend-1-75-0-4mm-3d-printer-bowden-or-direct)
 * [1x Cartridge Heaters](https://reprapchampion.com/collections/hotend-parts/products/2-x-cartridge-heater-12v-or-24v-40w-for-prusa-3d-reprap-printer-extruder-hotend)
 * [1x Thermistor for Extruder Hotend](https://reprapchampion.com/collections/hotend-parts/products/2017-version-hex-screw-in-m3-epcos-thermistor-for-3d-printer-extruder-hotend)
-
-**Total: $210.29**
 
 ## Metal Parts
 * [2x Flexible Shaft Couplers 5mm to 8mm](https://reprapchampion.com/products/flexible-shaft-coupler-5mm-to-8mm-for-cnc-routers-reprap-prusa-3d-printers?variant=7810585603)
@@ -79,11 +75,7 @@ Link to [Prusa i3 Mk2 Clone Build Log](https://prusaclone.wordpress.com)
 * 6x M3x12 screw
 * 16x M3x10 screw
 
-**Total: ~$100**
-
 ## Other Parts
 * [1x Prusa i3 Frame/Y-Carriage Plate](https://www.aliexpress.com/item/Prusa-i3-Rework-3D-printer-aluminum-frame-kit-RepRap-Prusa-i3-aluminum-frame-3D-Printer-DIY/32464829443.html?spm=2114.12010108.1000013.2.toXYCf&traffic_analysisId=recommend_2088_1_82199_new&scm=1007.13339.82199.0&pvid=f8ae53c3-5e21-481e-98bb-1e8a6d81b959&tpp=1)
 * [1x 6mm Cork Thermal Insulator](http://www.ebay.com/itm/6mm-Cork-Thermal-Insulator-for-3d-printer-Reprap-Heat-bed-MK2a-or-MK3-heatbed-/291694823499?_trksid=p2385738.m2548.l4275)
 * [1x 5m of GT2 Timing Belt](https://reprapchampion.com/products/5-meter-6mm-width-gt2-timing-belt-for-reprap-delta-3d-printer-kossel-rostock?variant=14726292166)
-
-**Total: $86.70**
